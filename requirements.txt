@@ -1,0 +1,6 @@
+transformers
+langchain
+openai
+faiss-cpu
+numpy
+pytest
